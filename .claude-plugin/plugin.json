@@ -1,6 +1,6 @@
 {
   "name": "quality",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Code quality toolkit with AI-powered triage. Commands: quality:security-review. Standalone — no dependencies.",
   "author": {
     "name": "KDAWS",
