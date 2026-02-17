@@ -1,0 +1,12 @@
+{
+  "name": "quality",
+  "version": "1.0.0",
+  "description": "Code quality toolkit with AI-powered triage. Commands: quality:security-review. Standalone — no dependencies.",
+  "author": {
+    "name": "KDAWS",
+    "url": "https://kdaws.com"
+  },
+  "repository": "https://github.com/KDAWS-com/cc-quality",
+  "license": "MIT",
+  "keywords": ["security", "code-quality", "semgrep", "phpstan", "ai-triage"]
+}
